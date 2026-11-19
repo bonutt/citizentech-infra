@@ -101,8 +101,8 @@ Todos os prints foram tirados do ambiente real (SRV-CITIZENTECH, 192.168.10.206)
 | Logs de auditoria e acompanhamento | 1,0 | [01-auditpol](evidencias/07-logs/01-auditpol.png) · [02-regra-auditoria-pasta](evidencias/07-logs/02-regra-auditoria-pasta.png) · [03-security-log](evidencias/07-logs/03-security-log.png) · [04-iis-logs](evidencias/07-logs/04-iis-logs.png) · [05-eventvwr-security](evidencias/07-logs/05-eventvwr-security.png) · [06-pasta-logs-iis](evidencias/07-logs/06-pasta-logs-iis.png) |
 | Funcionamento completo da proposta | 2,0 | [01-ficha-parte1](evidencias/08-validacao-final/01-ficha-parte1.png) · [02-ficha-parte2](evidencias/08-validacao-final/02-ficha-parte2.png) · [03-ficha-parte3](evidencias/08-validacao-final/03-ficha-parte3.png) |
 | *Infraestrutura de suporte: GPO, RDP e DFS* |  | [05-get-gpo-all](evidencias/04-ntfs-gpo/05-get-gpo-all.png) · [06-gplink](evidencias/04-ntfs-gpo/06-gplink.png) · [07-rdp](evidencias/04-ntfs-gpo/07-rdp.png) · [08-get-dfsnroot](evidencias/04-ntfs-gpo/08-get-dfsnroot.png) · [11-rdp-porta-3389](evidencias/04-ntfs-gpo/11-rdp-porta-3389.png) · [12-rdp-hostname](evidencias/04-ntfs-gpo/12-rdp-hostname.png) |
-| **Vídeo** (até 7 min) | | `<colar link do vídeo aqui>` |
+| **Vídeo** (até 7 min) | | [https://youtu.be/OPzWnrItwDU](https://youtu.be/OPzWnrItwDU) |
 
 ## Vídeo
 
-Link: `<colar link do YouTube (não listado) ou do Drive aqui>`
+Link: [https://youtu.be/OPzWnrItwDU](https://youtu.be/OPzWnrItwDU)
